@@ -1,1 +1,0 @@
-unet_19_0.84.ckpt filter=lfs diff=lfs merge=lfs -text
